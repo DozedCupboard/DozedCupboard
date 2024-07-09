@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @DozedCupboard
+- 👋 Hi, I’m @DozedCupboard (Ramen_wonder)
 - 👀 I’m interested in data analysis and making apps for fun
 - 🌱 I’m currently learning about both things I am interested in
 - 💞️ I’m looking to collaborate on ...
