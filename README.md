@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @DozedCupboard (Ramen_wonder)
 - 👀 I’m interested in data analysis, Pytorch and PowerBI
 
-- I have 2 Projects, One of them is a chess program made with tkinter
+I have 2 Projects, One of them is a chess program made with tkinter
 - it is stored in the "Chess Project" Folder.
 
-- The other is an analysis on Yellow Taxi's in new york and insights gained
+The other is an analysis on Yellow Taxi's in new york and insights gained
 - from the analysis.
 - It is stored in the "01_Project" Folder.
 <!---
