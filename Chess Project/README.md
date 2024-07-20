@@ -21,7 +21,7 @@ These are: python-chess, tkinter, customtkinter, pillow.
 
 ## Common mistake - MUST READ
 
-When running the client or server the project should be opened inside the "A_Working_ones" folder. not jkk23 or the image paths will not be correct and the board will not load.
+When running the client or server the project should be opened inside the "A_Working_ones" folder.
 
 ## License
 
