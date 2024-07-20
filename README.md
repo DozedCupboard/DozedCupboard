@@ -5,7 +5,7 @@ I have 2 Projects, One of them is a chess program made with tkinter
 - it is stored in the "Chess Project" Folder.
 
 The other is an analysis on Yellow Taxi's in new york and insights gained
-- from the analysis.
+from the analysis.
 - It is stored in the "01_Project" Folder.
 <!---
 - 🌱 I’m currently learning about both things I am interested in
