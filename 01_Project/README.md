@@ -1,3 +1,11 @@
+### IMPORTANT
+
+<b>The parquet file is not in the directory since it is too large to store on github</b>
+
+It stores the record of taxi data. To download it download Yellow Taxi's Trip Records for January 2024 (It's a Parquet file).
+You can do this at https://www.nyc.gov/site/tlc/about/tlc-trip-record-data.page.
+
+
 ### Project Overview: Taxi Patterns in New York City
 
 This project focuses on analyzing taxi data in New York City to uncover key patterns and insights.
