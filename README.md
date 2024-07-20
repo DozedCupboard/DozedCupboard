@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @DozedCupboard (Ramen_wonder)
-- 👀 I’m interested in data analysis, Pytorch and PowerBI
+- 👀 I’m interested in Data analysis, Pytorch and PowerBI
 
 I have 2 Projects, One of them is a chess program made with tkinter
 - it is stored in the "Chess Project" Folder.
