@@ -1,6 +1,6 @@
 ### IMPORTANT
 
-<b>The parquet file is not in the directory since it is too large to store on github</b>
+<b>THE PARQUET FILE IS NOT IN THE DIRECTORY SINCE IT IS TOO LARGE TO STORE ON GITHUB.</b>
 
 It stores the record of taxi data. To download it download Yellow Taxi's Trip Records for January 2024 (It's a Parquet file).
 You can do this at https://www.nyc.gov/site/tlc/about/tlc-trip-record-data.page.
