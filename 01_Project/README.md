@@ -2,8 +2,9 @@
 
 <b>THE PARQUET FILE IS NOT IN THE DIRECTORY SINCE IT IS TOO LARGE TO STORE ON GITHUB.</b>
 
-It stores the record of taxi data. To download it download Yellow Taxi's Trip Records for January 2024 (It's a Parquet file).
+It stores the record of taxi data. To run the code you will need to download Yellow Taxi's Trip Records for January 2024 (It's a Parquet file).
 You can do this at https://www.nyc.gov/site/tlc/about/tlc-trip-record-data.page.
+Keep the file in the same directory as the notebook.
 
 
 ### Project Overview: Taxi Patterns in New York City
