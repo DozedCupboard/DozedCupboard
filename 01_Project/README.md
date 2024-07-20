@@ -11,7 +11,13 @@ Since they are more efficient for large volumes of data, I had to figure out how
 ### Files
 
 The code is contained in the "01_Project.ipynb" file
-To read it in an easy way try using the PDF version
+
+To read it in an easy way try using the PDF version.
+
+
+The taxi_zone_lookup.csv file is a csv table that correlates to LocationID in the Parquet file.
+
+
 
 
 
