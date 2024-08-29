@@ -3,12 +3,15 @@
 
 I have 3 Data Projects
 
-One is an analysis on Yellow Taxi's in new york and insights gained
+The One project combines sql and power bi to produce an analysis on a
+cardiovascular disease dataset. It is called "Cardio analysis".
+
+Another is an analysis on Yellow Taxi's in new york and insights gained
 from the analysis.
 - It is stored in the "01_Project" Folder.
 
-Another is a Power BI project that explores data from a survey in a easy to
-read way
+Additional there is a Power BI project that explores data on a survey about 
+computer science professions.
 
 The third project combines sql and power bi to produce an analysis on a
 cardiovascular disease dataset.
