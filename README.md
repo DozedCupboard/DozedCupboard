@@ -13,7 +13,7 @@ from the analysis.
 
 Additional there is a Power BI project that explores data on a survey about 
 computer science professions.
-- It is called "power_bi.pdf".
+- It is called "Power BI.pdf".
 <!---
 - 🌱 I’m currently learning about both things I am interested in
 - 💞️ I’m looking to collaborate on ...
