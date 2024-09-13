@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @DozedCupboard (Ramen_wonder)
-- 👀 I’m interested in Data analysis, SQL, Python and PowerBI
+- 👋 Hello visitor
+- 👀 I’m interested in Data analysis, SQL, Python and PowerBI, and Web development
 
 I have 3 Data Projects
 
