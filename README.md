@@ -1,26 +1,22 @@
 - 👋 Hello visitor
 - 👀 I’m interested in Data analysis, SQL, Python and PowerBI, and Web development
 
-I have 3 Data Projects
 
-The One project combines sql and power bi to produce an analysis on a
-cardiovascular disease dataset. 
-- It is called "Cardio analysis". (Read the PDF)
+🌟 My Data Projects
+1️⃣ Cardio Analysis
+Tools Used: SQL & Power BI
+Project Overview: This project analyzes a cardiovascular disease dataset to provide key insights.
+Details: Check out the full analysis in the PDF: Cardio Analysis. 🩺
 
-Another is an analysis on Yellow Taxi's in new york and insights gained
-from the analysis.
-- It is stored in the "01_Project" Folder. (Look at PDF)
+2️⃣ NYC Yellow Taxi Analysis
+Tools Used: Data analysis
+Project Overview: Dive into the data from New York's yellow taxis to uncover interesting patterns and insights.
+Details: You can find this analysis in the folder: 01_Project. 🚖
 
-Additional there is a Power BI project that explores data on a survey about 
-computer science professions.
-- It is called "Power BI.pdf".
-<!---
-- 🌱 I’m currently learning about both things I am interested in
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
---->
+3️⃣ Survey on Computer Science Professions
+Tools Used: Power BI
+Project Overview: This Power BI project explores survey data related to computer science professions, offering visualized trends and insights.
+Details: Full project is in the PDF: Power BI.pdf. 💻
 
 <!---
 DozedCupboard/DozedCupboard is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
