@@ -18,6 +18,12 @@
 - **Project Overview:** This Power BI project explores survey data related to computer science professions, offering visualized trends and insights.  
 - **Details:** Full project is in the PDF: *Power BI.pdf*. 💻
 
+### 4️⃣ **Product Analysis**  
+- **Tools Used:** Python (Pandas)  
+- **Project Overview:** This project utilizes Python and Pandas to answer key business questions about products, such as identifying which pair of products were sold the most.  
+- **Details:** Insights and analysis can be found in the related documentation. 📊
+
+
 <!---
 DozedCupboard/DozedCupboard is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
