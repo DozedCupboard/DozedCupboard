@@ -3,10 +3,10 @@
 
 # 🌟 My Data Projects
 
-### 1️⃣ **Cardio Analysis**  
-- **Tools Used:** SQL & Power BI  
-- **Project Overview:** This project analyzes a cardiovascular disease dataset to provide key insights.  
-- **Details:** Check out the full analysis in the PDF: *Cardio Analysis*. 🩺
+### 1️⃣ **Insights into data careers (Power BI)**  
+- **Tools Used:** Power BI  
+- **Project Overview:** This project analyzes data taken from a survey to provide key insights.  
+- **Details:** Check out the full analysis in the PDF: *Insights into data careers.pdf*. 📊
 
 ### 2️⃣ **NYC Yellow Taxi Analysis**  
 - **Tools Used:** Data analysis  
@@ -21,7 +21,12 @@
 ### 4️⃣ **Product Analysis**  
 - **Tools Used:** Python (Pandas)  
 - **Project Overview:** This project utilizes Python and Pandas to answer key business questions about products, such as identifying which pair of products were sold the most.  
-- **Details:** Insights and analysis can be found in the related documentation. 📊
+- **Details:** Insights and analysis can be found in the related documentation. 
+
+- ### 1️⃣ **Cardio Analysis**  
+- **Tools Used:** SQL & Power BI  
+- **Project Overview:** This project analyzes a cardiovascular disease dataset to provide key insights.  
+- **Details:** Check out the full analysis in the PDF: *Cardio Analysis*. 🩺
 
 
 <!---
