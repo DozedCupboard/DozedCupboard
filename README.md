@@ -1,6 +1,3 @@
-- 👋 Hello visitor
-- 👀 I’m interested in Data analysis, SQL, Python and PowerBI
-
 # 🌟 My Data Projects
 
 ### 1️⃣ **Insights into data careers (Power BI)**  
