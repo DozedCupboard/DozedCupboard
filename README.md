@@ -1,5 +1,5 @@
 - 👋 Hello visitor
-- 👀 I’m interested in Data analysis, SQL, Python and PowerBI, and Web development
+- 👀 I’m interested in Data analysis, SQL, Python and PowerBI
 
 # 🌟 My Data Projects
 
