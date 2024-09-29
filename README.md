@@ -18,7 +18,7 @@
 ### 4️⃣ Massachusetts Hospital Dataset Analysis (Power BI)  
 - **Tools Used:** Power BI  
 - **Project Overview:** This project analyzes the Massachusetts hospital dataset to evaluate hospital performance metrics, patient demographics, and health outcomes. Key insights include patient readmission rates, average length of stay, and the impact of various treatments on recovery times. The analysis aims to provide actionable insights for hospital administrators and policymakers to enhance healthcare delivery.  
-- **Details:** Check out the full analysis in the PDF: [Massachusetts Hospital Analysis.pdf](#). 🏥
+- **Details:** Check out the full analysis in the PDF: [Massachusetts Hospital Analysis.pdf](https://github.com/DozedCupboard/DozedCupboard/blob/main/Massachusetts%20Hospital%20Analysis.pdf). 🏥
  
 
 
