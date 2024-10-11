@@ -4,8 +4,4 @@ Data science approach to the [Maven Halloween Challenge](https://mavenanalytics.
 1. Principal Component Analysis (PCA) in Python: [Candy Analysis.ipynb]
 2. Clustering in Tableau: [Candy Clusters.twbx]
 
-
-
-![final_clusters](https://github.com/DozedCupboard/DozedCupboard/blob/main/Candy%20Analysis/Candy_Clusters.png)
-
-<img src="https://github.com/DozedCupboard/DozedCupboard/blob/main/Candy%20Analysis/Candy_Clusters.png" alt="final_clusters" width="500" height="300"/>
+<img src="https://github.com/DozedCupboard/DozedCupboard/blob/main/Candy%20Analysis/Candy_Clusters.png" alt="final_clusters" width="500" height="500"/>
