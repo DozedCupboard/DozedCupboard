@@ -6,4 +6,4 @@ Data science approach to the [Maven Halloween Challenge](https://mavenanalytics.
 
 
 
-![final_clusters]()
+![final_clusters](https://github.com/DozedCupboard/DozedCupboard/blob/main/Candy%20Analysis/Candy_Clusters.png)
