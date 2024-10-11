@@ -20,3 +20,4 @@ Using online votes ranking 85 types of candy, your task is to find the 3 treats 
 - A popular fruity option: Starburst
 
 These candy's were the highest in there groups after filtering for "winpercent" in tableu.
+Resse's sweets are quite similiar to chocolate sweets so I picked the best between the two categories.
