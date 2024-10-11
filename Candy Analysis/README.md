@@ -10,13 +10,13 @@ Data science approach to the [Maven Halloween Challenge](https://mavenanalytics.
 Using online votes ranking 85 types of candy, your task is to find the 3 treats you'll give out on Halloween to guarantee that trick-or-treaters of all tastes find something they'll love and present the data to back up your decision.
 
 ### My Approach
-View the data in Python
-Apply PCA to the data to create a scatter plot in Python
-Identify clusters and filter the data down to three candies in Tableau
+- View the data in Python
+- Apply PCA to the data to create a scatter plot in Python
+- Identify clusters and filter the data down to three candies in Tableau
 
 ### My Top Picks
-A popular candy: Reese's Peanut Butter Cup
-A popular chocolate option: Twix
-A popular fruity option: Starburst
+- A popular candy: Reese's Peanut Butter Cup
+- A popular chocolate option: Twix
+- A popular fruity option: Starburst
 
 These candy's where the highest in there groups after filtering for "winpercent" in tableu.
