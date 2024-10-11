@@ -19,4 +19,4 @@ Using online votes ranking 85 types of candy, your task is to find the 3 treats 
 - A popular chocolate option: Twix
 - A popular fruity option: Starburst
 
-These candy's where the highest in there groups after filtering for "winpercent" in tableu.
+These candy's were the highest in there groups after filtering for "winpercent" in tableu.
