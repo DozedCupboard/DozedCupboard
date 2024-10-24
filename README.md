@@ -15,13 +15,7 @@
 - **Project Overview:** This project involves analyzing sales data to uncover trends, patterns, and key insights. The analysis includes identifying the best-selling products, seasonal trends, and revenue drivers across various regions.  
 - **Details:** Check out the full analysis in the PDF: [*Sales Analysis.pdf*](https://github.com/DozedCupboard/DozedCupboard/blob/main/Sales%20Analysis.ipynb). 💼
 
-### 4️⃣ Massachusetts Hospital Dataset Analysis (Power BI)  
-- **Tools Used:** Power BI  
-- **Project Overview:** This project analyzes the Massachusetts hospital dataset to evaluate hospital performance metrics, patient demographics, and health outcomes. Key insights include patient readmission rates, average length of stay, and the impact of various treatments on recovery times. The analysis aims to provide actionable insights for hospital administrators and policymakers to enhance healthcare delivery.  
-- **Details:** Check out the full analysis in the PDF: [Massachusetts Hospital Analysis.pdf](https://github.com/DozedCupboard/DozedCupboard/blob/main/Massachusetts%20Hospital%20Analysis.pdf). 🏥
-
-
-### 5️⃣ **Candy Preference Analysis using PCA (Python & Tableau)**  
+### 4️⃣ **Candy Preference Analysis using PCA (Python & Tableau)**  
 - **Tools Used:** Python (PCA), Tableau  
 - **Project Overview:** This project explores a dataset on candy preferences, using Principal Component Analysis (PCA) in Python to reduce dimensionality and uncover patterns in candy characteristics. The PCA results are visualized in Tableau to reveal the key factors influencing candy preferences and to cluster candies based on shared features.  
 - **Details:** Check out the full analysis in the PDF: [Candy Preference Analysis.pdf](https://github.com/DozedCupboard/DozedCupboard/blob/main/Candy%20Preference%20Analysis.pdf). 🍬
